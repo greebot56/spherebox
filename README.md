@@ -2,9 +2,9 @@
 ### Gear-up for a new concept in mechanical power transmission for renewable energy
 #### *Note: This page as it stands represents an MVP for sharing - significant upgrades are planned!*
 
-Spherebox is the working title of a mechanism to efficiently gear-up (or down) rotary motion at ratios of 20:1 or more in a single stage, using spherical geometry and magnets.
+Spherebox is the working title of a mechanism to efficiently gear-up (or down) rotary motion at ratios of 20:1 or more in a single stage, using magnets and spherical geometry- the geometry of compond rotations in 3D space.
 
-I believe it is "novel" in the sense of an invention, but I want to "open-source it" and share it with the world rather than go through the patent process.  Partly, because if it turns out to be genuinely useful, I don't think it should be locked behind a patent.  And, if having it "community owned" will help populaise it, so much the better
+I believe it is "novel" in the sense of an invention, but I want to "open-source it" and share it with the world rather than go through the patent process.  Partly, because if it turns out to be genuinely useful, I don't think it should be locked behind a patent.  And, if having it "community owned" will help popularise it, so much the better
 
 Potential Benefits:
 * No sliding contact - less friction, less wear --> Less maintainance **+ less power loss?**
@@ -23,9 +23,7 @@ The mechanism is targetted at renewable energy applications, which need efficien
 * Small Hydroelectric (e.g. Archimedes screw, water wheel)
 * Gravitational energy storage
 
-The "soft backlash" feature could also be beneficial for systems with frequent changes in loading direction
-* Flywheel energy storage (enabling a low RPM large diameter rotor?)
-* Wave energy
+The "soft backlash" feature could also be beneficial for systems with frequent changes in loading direction, such as wave energy
 
 ### The Basic Principle
 ![alt text](./data/output_fixedAx.gif)
@@ -37,6 +35,8 @@ The red magnet ring rotates around the red axle, and the blue magnet ring rotate
 ![alt text](./data/output.gif)
 
 In this, the red magnet ring is stationary and the *axle* rotates - essentially this configuration is the result of "subtracting" the rotation of the red ring from whole system, like balancing an equation.
+
+This kind of arrangement with two similarly same sized elements and some sort of "driver" will likely look familiar to those with an understanding of the cycloidal drive, or strain wave gearbox.
 
 In the first animation, the "stepping round" of the black magnets can be thought of as happening each time they come back to the "contact point", ie with each revolution.  Now, the "contact point" moves with the axle, so each rovolution of the axle, the blue ring is rotated by 1/20 of a revolution vs where it was - the ratio is 1:20.  
 
