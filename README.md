@@ -40,9 +40,9 @@ The red magnet ring rotates around the red axle, and the blue magnet ring rotate
 
 In this, the red magnet ring is stationary and the *axle* rotates - essentially this configuration is the result of "subtracting" the rotation of the red ring from whole system, like balancing an equation.
 
-This kind of arrangement with two similarly same sized elements and some sort of "driver" will likely look familiar to those with an understanding of the cycloidal drive, or strain wave gearbox.
+This kind of arrangement with two similarly sized elements and some sort of "driver" will likely look familiar to those with an understanding of the cycloidal drive, or the strain wave gearbox.
 
-In the first animation, the "stepping round" of the black magnets can be thought of as happening each time they come back to the "contact point", ie with each revolution.  Now, the "contact point" moves with the axle, so each rovolution of the axle, the blue ring is rotated by 1/20 of a revolution vs where it was - the ratio is 1:20.  
+In the first animation, the "stepping round" of the black magnets can be thought of as happening each time they come back to the "contact point", ie with each revolution.  Now, the "contact point" moves with the axle, so each revolution of the axle, the blue ring is rotated by 1/20 of a revolution vs where it was - the ratio is 1:20.  
 
 Or to put it another way: 19/20 - 1 = 19/20 - 20/20 = -1/20
 
