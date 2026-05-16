@@ -1,8 +1,8 @@
-# Spherebox <img src="./data/Sphere.png" width=64 height=64 alt="Geometry" />
+# Gyrbox <img src="./data/Sphere.png" width=64 height=64 alt="Geometry" />
 ### Gear-up for a new concept in mechanical power transmission for renewable energy
 #### *Note: This page as it stands represents an MVP for sharing - significant upgrades are planned!*
 
-Spherebox is the working title of a mechanism to efficiently gear-up (or down) rotary motion at ratios of 20:1 or more in a single stage, using magnets and spherical geometry- the geometry of compond rotations in 3D space.
+Gyrbox is the working title of a mechanism to efficiently gear-up (or down) rotary motion at ratios of 20:1 or more in a single stage, using magnets and spherical geometry- the geometry of compond rotations in 3D space.
 
 I believe it is "novel" in the sense of an invention, but I want to "open-source it" and share it with the world rather than go through the patent process.  Partly, because if it turns out to be genuinely useful, I don't think it should be locked behind a patent.  And, if having it "community owned" will help popularise it, so much the better
 
