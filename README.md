@@ -62,7 +62,9 @@ This was 3D printed, with many of the parts in an early iteration laid out below
 ![The parts laid out](./data/proto20251010.jpg)
 
 And finally, after many months of assembling, iterating the design, reprinting and reassembling, with more than a little procrastination, a working prototype is ready:
+
 ![Video of the prototype](./data/proto_run.gif)
+
 [Open full resolution video](./data/proto_run.mp4)
 
 ### Contact
